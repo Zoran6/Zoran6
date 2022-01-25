@@ -1,4 +1,4 @@
-- 👋 大家好，我是一名后端小学生，从事Java后端开发一年多。在2022年，希望通过自己的努力，能写出精准而优雅的代码。
+- 👋 大家好，在下后端小学生，正在努力成为新时代Java开发的顶梁柱。
 
 <!---
 Zoran6/Zoran6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
